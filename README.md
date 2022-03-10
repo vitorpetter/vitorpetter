@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando: Java | QA | SQL |
 - 🤔 Estou procurando ajuda para fazer a transição de carreira para T.I - | estágio | projeto |
 
-<div align="center">
+<div>
   <a href="https://github.com/vitorpetter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpetter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpetter&layout=compact&langs_count=7&theme=dark"/>
