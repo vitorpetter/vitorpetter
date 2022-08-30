@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Petter
 
 - 🔭 No momento estou: desempregado
-- 🌱 Atualmente estudando: PHP | QA | SQL |
+- 🌱 Atualmente estudando: PHP | QA | SQL | HTML5 | CSS | OutSystems
 - 🤔 Estou procurando ajuda para fazer a transição de carreira para T.I - | estágio | projeto |
 
 <div>
