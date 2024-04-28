@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Vitor Petter
 
-- 🔭 No momento estou: desempregado
-- 🌱 Atualmente estudando: PHP | QA | SQL | HTML5 | CSS | OutSystems
-- 🤔 Estou procurando ajuda para fazer a transição de carreira para T.I - | estágio | projeto |
+- 🔭 No momento estou: Atuo como Analista Desenvolvedor Outsystems
+- 🌱 Atualmente estudando: Java | Angular | SQL | HTML5 | CSS | OutSystems
+- 😎 Futuro Empresário
 
 <div>
   <a href="https://github.com/vitorpetter">
