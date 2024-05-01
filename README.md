@@ -3,6 +3,7 @@
 - 🔭 No momento estou: Atuo como Analista Desenvolvedor Outsystems
 - 🌱 Atualmente estudando: Java | Angular | SQL | HTML5 | CSS | OutSystems
 - 😎 Futuro Empresário
+- 🎮 Streamer nas horas vagas (bem vagas)
 
 <div>
   <a href="https://github.com/vitorpetter">
