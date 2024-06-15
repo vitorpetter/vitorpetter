@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Petter
 
 - 🔭 No momento estou: Atuo como Analista Desenvolvedor Outsystems
-- 🌱 Atualmente estudando: Java | Angular | SQL | HTML5 | CSS | OutSystems
+- 🌱 Atualmente estudando: Java | React | SQL | HTML5 | CSS | OutSystems
 - 😎 Futuro Empresário
 - 🎮 Streamer nas horas vagas (bem vagas)
 
