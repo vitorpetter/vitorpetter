@@ -26,7 +26,7 @@ I enjoy understanding how things work and turning ideas into practical projects.
 
 ## 🚀 Featured project
 
-### [Zero de TI](https://zerodeti.com.br)
+### Zero de TI
 
 An educational project helping beginners find their path into
 technology, starting with OutSystems.
@@ -42,4 +42,5 @@ resources based on my experience as a developer.
 <a href="mailto:vitorhmpetter@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://instagram.com/zerodeti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
