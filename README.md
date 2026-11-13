@@ -1,24 +1,25 @@
 # Hi, I'm Vitor Petter 👋
 
-### OutSystems Developer | Business Applications & Integrations
+### OutSystems Developer | Business Analysis & Integrations
 
-I'm a Brazilian software developer working with OutSystems to build and maintain B2B applications.
+I'm a Brazilian OutSystems developer working on B2B applications, connecting business needs with technical solutions.
 
-My work involves developing features, investigating complex issues, and improving business processes. I collaborate with developers and QA to turn business requirements into reliable solutions.
+My work spans requirements analysis, feature development, integrations, and complex issue investigation. I collaborate with business stakeholders, developers, and QA throughout the delivery process.
 
 ## 💻 What I do
 
 - Develop and maintain applications using OutSystems.
+- Gather and refine requirements directly with business stakeholders, translating business needs into technical solutions.
 - Investigate production issues and implement fixes.
 - Work with SQL, REST APIs, integrations, and business workflows.
 - Support teammates through technical discussions and code reviews.
-- Help coordinate tasks when the Tech Lead is unavailable.
+- Take on team coordination responsibilities when needed, organizing priorities and helping teammates resolve blockers.
 
 ## 🌱 What I'm building toward
 
 I'm expanding my skills in JavaScript, React, Node.js, and SQL, with an interest in automation and software products that solve everyday problems.
 
-I'm also improving my English and developing my technical leadership skills.
+I'm also developing my technical leadership skills.
 
 ## 🧠 A little about me
 
@@ -26,21 +27,17 @@ I enjoy understanding how things work and turning ideas into practical projects.
 
 ## 🚀 Featured project
 
-### Zero de TI
+### [Zero de TI](https://zerodeti.com.br)
 
-An educational project helping beginners find their path into
-technology, starting with OutSystems.
+An educational project in Portuguese helping Brazilians start their journey in technology, beginning with OutSystems.
 
-I'm developing the website and creating practical learning
-resources based on my experience as a developer.
+I'm building the project and creating practical learning resources based on my experience as a developer.
 
 ## 🤝 Let's connect
 
 <a href="https://www.linkedin.com/in/vitorpetter/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Vitor Petter on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:vitorhmpetter@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://instagram.com/zerodeti">
+  <img alt="Zero de TI on Instagram" src="https://img.shields.io/badge/Zero_de_TI-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://instagram.com/zerodeti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
